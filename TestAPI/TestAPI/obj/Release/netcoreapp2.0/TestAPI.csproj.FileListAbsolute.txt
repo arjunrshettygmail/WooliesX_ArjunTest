@@ -1,0 +1,12 @@
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\bin\Release\netcoreapp2.0\TestAPI.deps.json
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\bin\Release\netcoreapp2.0\TestAPI.runtimeconfig.json
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\bin\Release\netcoreapp2.0\TestAPI.runtimeconfig.dev.json
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\bin\Release\netcoreapp2.0\TestAPI.dll
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\bin\Release\netcoreapp2.0\TestAPI.pdb
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.csprojAssemblyReference.cache
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.csproj.CoreCompileInputs.cache
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.AssemblyInfoInputs.cache
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.AssemblyInfo.cs
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.dll
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\TestAPI.pdb
+C:\codeTest assignments\wooliesx\TestAPI\TestAPI\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
